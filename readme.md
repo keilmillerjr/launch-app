@@ -8,11 +8,11 @@ Launch is an app for the [AttractMode](http://attractmode.org) front end. It wil
 
 ## Requirements:
 
-* AttractMode for 64-bit Windows OS installed
+* AttractMode for Windows OS installed
 
 ## Install Files
 
-1. Copy launch.exe to the same directory as attract.exe inside your AttractMode directory. Launch will not work if placed in any other directory.
+1. Copy launch32.exe (32-bit) or launch64.exe (64-bit) to the same directory as attract.exe inside your AttractMode directory. Launch will not work if placed in any other directory.
 
 ## Notes
 
